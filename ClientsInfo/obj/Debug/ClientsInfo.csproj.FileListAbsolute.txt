@@ -1,0 +1,11 @@
+C:\Users\vadim\Downloads\RSAMessenger-master\ClientsInfo\bin\Debug\ClientsInfo.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\ClientsInfo\bin\Debug\ClientsInfo.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\ClientsInfo\obj\Debug\ClientsInfo.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\RSAMessenger-master\ClientsInfo\obj\Debug\ClientsInfo.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\ClientsInfo\obj\Debug\ClientsInfo.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\ClientsInfo\bin\Debug\ClientsInfo.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\ClientsInfo\bin\Debug\ClientsInfo.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\ClientsInfo\obj\Debug\ClientsInfo.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\ClientsInfo\obj\Debug\ClientsInfo.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\ClientsInfo\obj\Debug\ClientsInfo.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\ClientsInfo\obj\Debug\ClientsInfo.pdb

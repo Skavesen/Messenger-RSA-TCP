@@ -1,0 +1,11 @@
+C:\Users\vadim\Downloads\RSAMessenger-master\RSAMessenger\bin\Debug\RSAMessenger.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\RSAMessenger\bin\Debug\RSAMessenger.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\RSAMessenger\obj\Debug\RSAEncryption.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\RSAMessenger-master\RSAMessenger\obj\Debug\RSAMessenger.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\RSAMessenger\obj\Debug\RSAMessenger.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\RSAMessenger\bin\Debug\RSAMessenger.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\RSAMessenger\bin\Debug\RSAMessenger.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\RSAMessenger\obj\Debug\RSAEncryption.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\RSAMessenger\obj\Debug\RSAEncryption.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\RSAMessenger\obj\Debug\RSAMessenger.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\RSAMessenger\obj\Debug\RSAMessenger.pdb

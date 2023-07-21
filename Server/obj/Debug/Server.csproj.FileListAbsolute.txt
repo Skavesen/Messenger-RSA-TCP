@@ -1,0 +1,20 @@
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\bin\Debug\Server.exe.config
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\bin\Debug\Server.exe
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\bin\Debug\Server.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\bin\Debug\ClientsInfo.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\bin\Debug\ClientsInfo.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\obj\Debug\Server.exe
+C:\Users\vadim\Downloads\RSAMessenger-master\Server\obj\Debug\Server.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\bin\Debug\Server.exe.config
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\bin\Debug\Server.exe
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\bin\Debug\Server.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\bin\Debug\ClientsInfo.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\bin\Debug\ClientsInfo.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\obj\Debug\Server.exe
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\Server\obj\Debug\Server.pdb

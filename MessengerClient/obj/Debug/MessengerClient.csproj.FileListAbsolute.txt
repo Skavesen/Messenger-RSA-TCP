@@ -1,0 +1,141 @@
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.csprojAssemblyReference.cache
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\App.baml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\AuthWindow.g.cs
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerWindow.g.cs
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\RegistrationWindow.g.cs
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\App.g.cs
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\DBMS\MessengerUsers.db
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\MessengerClient.exe.config
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\MessengerClient.exe
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\MessengerClient.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\ClientsInfo.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\EntityFramework.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignColors.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\Prism.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\RSAMessenger.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\Server.exe
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\System.ValueTuple.dll
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\ClientsInfo.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\RSAMessenger.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\Server.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\Server.exe.config
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\EntityFramework.xml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignColors.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\Prism.pdb
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\Prism.xml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\bin\Debug\System.ValueTuple.xml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\AuthWindow.baml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerWindow.baml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\RegistrationWindow.baml
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.g.resources
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.csproj.CopyComplete
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.exe
+C:\Users\vadim\Downloads\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\DBMS\MessengerUsers.db
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\MessengerClient.exe.config
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\MessengerClient.exe
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\MessengerClient.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\ClientsInfo.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\EntityFramework.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignColors.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\Prism.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\RSAMessenger.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\Server.exe
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\System.Data.SQLite.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\System.ValueTuple.dll
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\ClientsInfo.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\RSAMessenger.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\Server.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\Server.exe.config
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\EntityFramework.xml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignColors.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\Prism.pdb
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\Prism.xml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\System.Data.SQLite.xml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\bin\Debug\System.ValueTuple.xml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\App.baml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\AuthWindow.g.cs
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerWindow.g.cs
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\RegistrationWindow.g.cs
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\App.g.cs
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\AuthWindow.baml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerWindow.baml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\RegistrationWindow.baml
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.g.resources
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.csproj.CopyComplete
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.exe
+D:\Универ\Разделы дипломов\Майданюк\RSAMessenger-master\MessengerClient\obj\Debug\MessengerClient.pdb
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\DBMS\MessengerUsers.db
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\MessengerClient.exe.config
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\MessengerClient.exe
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\MessengerClient.pdb
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\ClientsInfo.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\EntityFramework.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\MaterialDesignColors.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\Prism.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\RSAMessenger.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\Server.exe
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\System.Data.SQLite.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\System.ValueTuple.dll
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\ClientsInfo.pdb
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\RSAMessenger.pdb
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\Server.pdb
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\Server.exe.config
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\EntityFramework.xml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\MaterialDesignColors.pdb
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\Prism.pdb
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\Prism.xml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\System.Data.SQLite.xml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\bin\Debug\System.ValueTuple.xml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\App.baml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\AuthWindow.g.cs
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerWindow.g.cs
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\RegistrationWindow.g.cs
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\App.g.cs
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\AuthWindow.baml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerWindow.baml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\RegistrationWindow.baml
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient.g.resources
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient.csproj.CopyComplete
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient.exe
+D:\Универ\Разделы дипломов\Майданюк\Messenger\MessengerClient\obj\Debug\MessengerClient.pdb
